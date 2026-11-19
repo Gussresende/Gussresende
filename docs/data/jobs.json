@@ -1,12 +1,12 @@
 {
- "updated_at": "2026-11-18T14:39-03:00",
+ "updated_at": "2026-11-19T14:46-03:00",
  "city": "Mineiros - GO",
  "sources": [
   {
    "name": "LinkedIn",
    "url": "https://www.linkedin.com/jobs/search/?location=Mineiros%2C%20Goi%C3%A1s%2C%20Brasil",
    "status": "ok",
-   "count": 56,
+   "count": 55,
    "error": null
   },
   {
@@ -41,7 +41,7 @@
    "name": "Catho",
    "url": "https://www.catho.com.br/vagas/mineiros-go/",
    "status": "ok",
-   "count": 18,
+   "count": 16,
    "error": null
   },
   {
@@ -78,6 +78,193 @@
  ],
  "jobs": [
   {
+   "title": "Tecnico Manutencao Eletrica III - Mineiros GO",
+   "company": "MBRF",
+   "location": "Mineiros, GO",
+   "url": "https://br.linkedin.com/jobs/view/tecnico-manutencao-eletrica-iii-mineiros-go-at-mbrf-4492228005",
+   "posted": "2026-11-18",
+   "id": "42f7fe454201",
+   "source": "LinkedIn",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Operador Caldeira II - Mineiros GO",
+   "company": "MBRF",
+   "location": "Mineiros, GO",
+   "url": "https://br.linkedin.com/jobs/view/operador-caldeira-ii-mineiros-go-at-mbrf-4492207871",
+   "posted": "2026-11-18",
+   "id": "bb9b614c1c9b",
+   "source": "LinkedIn",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Classificador Cereais - Mineiros GO",
+   "company": "MBRF",
+   "location": "Mineiros, GO",
+   "url": "https://br.linkedin.com/jobs/view/classificador-cereais-mineiros-go-at-mbrf-4492210914",
+   "posted": "2026-11-18",
+   "id": "d2d79a878745",
+   "source": "LinkedIn",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mecanico III - (Temporário) - Mineiros GO",
+   "company": "MBRF",
+   "location": "Mineiros, GO",
+   "url": "https://br.linkedin.com/jobs/view/mecanico-iii-tempor%C3%A1rio-mineiros-go-at-mbrf-4492210905",
+   "posted": "2026-11-18",
+   "id": "03afdb5d5037",
+   "source": "LinkedIn",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12041378/operadora-de-cartoes-atacadao-anapolisgo-em-anapolis-go",
+   "posted": null,
+   "id": "5fb8f238fa59",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12041321/eletricista-a-de-rede-de-distribuicao-go-go-go-go-em-goiania-go",
+   "posted": null,
+   "id": "618b20765825",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12041319/auxiliar-de-marketing-go-go-go-go-go-go-go-em-aparecida-de-goiania-go",
+   "posted": null,
+   "id": "bb70e5bb9757",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12041322/eletricista-de-rede-de-distribuicao-go-go-go-em-goiania-go",
+   "posted": null,
+   "id": "3c1810091b40",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12041323/eletricista-de-rede-de-distribuicao-go-go-go-go-go-em-goiania-go",
+   "posted": null,
+   "id": "afeb4ab39b2e",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12041320/eletricista-go-em-aparecida-de-goiania-go",
+   "posted": null,
+   "id": "dacd8374476a",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12040624/operadora-de-cartoes-atacadao-anapolisgo-em-anapolis-go",
+   "posted": null,
+   "id": "688a61dad186",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12040538/operadora-de-cartoes-atacadao-anapolisgo-em-anapolis-go",
+   "posted": null,
+   "id": "4c755a9d21d8",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12040480/operadora-de-cartoes-atacadao-anapolisgo-em-anapolis-go",
+   "posted": null,
+   "id": "e322bfbbe574",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12039692/analista-de-suporte-pleno-field-service-go-em-catalao-go",
+   "posted": null,
+   "id": "88d83922e74a",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12036683/analista-de-suporte-field-service-senior-go-em-catalao-go",
+   "posted": null,
+   "id": "72e566086e8e",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12036485/consultor-de-vendas-consorcio-goianiago-em-goiania-go",
+   "posted": null,
+   "id": "f46d5215223f",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12035956/promotor-de-vendas-merchandising-planaltina-godf-e-paranoa-em-brasilia-df",
+   "posted": null,
+   "id": "29f938607e71",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-19",
+   "last_seen": "2026-11-19"
+  },
+  {
    "title": "CALDEIREIRO SR - INDUSTRIAL",
    "company": "Atvos",
    "location": "Mineiros, GO",
@@ -86,7 +273,7 @@
    "id": "a0316940a07c",
    "source": "LinkedIn",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador(a) de Produção I - Mineiros GO",
@@ -97,7 +284,7 @@
    "id": "6d7d87554dfd",
    "source": "LinkedIn",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Cozinha - Vaga Afirmativa para Pessoas com Deficiência/Reabilitados (PCD)",
@@ -108,7 +295,7 @@
    "id": "b01035089521",
    "source": "Catho",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Encarregado de Padaria",
@@ -119,7 +306,7 @@
    "id": "92ee5fc0ce3c",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Promotor de Vendas",
@@ -130,7 +317,7 @@
    "id": "722bf088159f",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Analista de Departamento Pessoal",
@@ -141,7 +328,7 @@
    "id": "d9b6a000f931",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Encarregado de Restaurante",
@@ -152,7 +339,7 @@
    "id": "73dc42326ef3",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Limpeza",
@@ -163,7 +350,7 @@
    "id": "2666598d9ea8",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Manutentor Civil III (Granja de Suínos) - Mineiros - GO",
@@ -174,7 +361,7 @@
    "id": "8d0e8f2dcd21",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Portaria",
@@ -185,7 +372,7 @@
    "id": "1b29a1042768",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador de Produção I",
@@ -196,7 +383,7 @@
    "id": "4191346e11ae",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Limpeza",
@@ -207,7 +394,7 @@
    "id": "24bb1402c856",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar Administrativo",
@@ -218,7 +405,7 @@
    "id": "ae8f121dd53b",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Classificador",
@@ -229,7 +416,7 @@
    "id": "adf8a1ee5ad3",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador de Pá Carregadeira",
@@ -240,7 +427,7 @@
    "id": "9c2ad460b328",
    "source": "LinkedIn",
    "first_seen": "2026-11-17",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "MULTIPLICADOR - OPE AGRICOLA",
@@ -284,7 +471,7 @@
    "id": "08d6e650e4e0",
    "source": "InfoJobs",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -295,7 +482,7 @@
    "id": "83436bed9e9a",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -306,7 +493,7 @@
    "id": "74877eaa3d7c",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -317,7 +504,7 @@
    "id": "e90f1a0bab5c",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-15",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -441,28 +628,6 @@
    "last_seen": "2026-11-18"
   },
   {
-   "title": "Mais detalhes",
-   "company": "",
-   "location": "Mineiros, GO",
-   "url": "https://www.empregos.com.br/vaga/12025773/eletricista-construcao-de-rede-go-em-aparecida-de-goiania-go",
-   "posted": null,
-   "id": "5a39b3f67bc5",
-   "source": "Empregos.com.br",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-15"
-  },
-  {
-   "title": "Mais detalhes",
-   "company": "",
-   "location": "Mineiros, GO",
-   "url": "https://www.empregos.com.br/vaga/12025770/assistente-de-projetos-go-go-em-aparecida-de-goiania-go",
-   "posted": null,
-   "id": "671e2d2deeb0",
-   "source": "Empregos.com.br",
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-15"
-  },
-  {
    "title": "Operador(a) Racoes I - Mineiros GO",
    "company": "MBRF",
    "location": "Mineiros, GO",
@@ -471,7 +636,7 @@
    "id": "b523e27503a0",
    "source": "LinkedIn",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "ESTAGIARIO - LOCAL",
@@ -482,7 +647,7 @@
    "id": "4972989048f9",
    "source": "LinkedIn",
    "first_seen": "2026-11-13",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "AUXILIAR ADM APRENDIZ - 1115 - 060210 - 150",
@@ -493,7 +658,7 @@
    "id": "2613c404ca2f",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Tecnico(a) Manutencao Eletrica II (Fábrica de Ração) - Mineiros - GO",
@@ -504,7 +669,7 @@
    "id": "53818f6f3997",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "ASSISTENTE DE LOJA - 1115 - 060202",
@@ -515,7 +680,7 @@
    "id": "d22d64a63c81",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Suporte técnico",
@@ -526,7 +691,7 @@
    "id": "cbf7ec3a9b8e",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mecanico III (Frigorífico) - Mineiros GO",
@@ -559,7 +724,7 @@
    "id": "87545b969e40",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador(a) de Produção I - Mineiros GO (100 vagas)",
@@ -592,7 +757,7 @@
    "id": "ec92a6d29051",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "LIDER - MANUTENCAO AGRICOLA",
@@ -603,7 +768,7 @@
    "id": "0adfca1a848e",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "BORRACHEIRO",
@@ -614,7 +779,7 @@
    "id": "6d5d88a44215",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "MECANICO PL - AUTOMOTIVO",
@@ -625,7 +790,7 @@
    "id": "f17631a49054",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "JARDINEIRO",
@@ -636,7 +801,7 @@
    "id": "f9f16a20b050",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mecanico III (Fábrica de Ração) - Mineiros - GO",
@@ -647,7 +812,7 @@
    "id": "36014f9d485f",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "OP PROCESSO - TRAT CALDO",
@@ -658,7 +823,7 @@
    "id": "585e9fb7a719",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador Sr Tratamento de Caldo",
@@ -669,7 +834,7 @@
    "id": "cac1dbb3e7e3",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "ELETRICISTA SR - AUTOMOTIVO",
@@ -680,7 +845,7 @@
    "id": "9d38f85e76f8",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Estagiario(a) Nivel Superior (Manutenção) - Mineiros - GO",
@@ -691,7 +856,7 @@
    "id": "128263840d1e",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Manipulação de Alimentos",
@@ -702,7 +867,7 @@
    "id": "428c22556398",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Repositor de Mercearia",
@@ -713,7 +878,7 @@
    "id": "d691cbc5d9fb",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Assistente de Piloto de Drone",
@@ -724,7 +889,7 @@
    "id": "83059b5b9077",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Repositor de Hortifruti",
@@ -735,7 +900,7 @@
    "id": "1695a02fd1e2",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Agente de Prevenção e Perdas",
@@ -746,7 +911,7 @@
    "id": "00038c4fe953",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Açougueiro",
@@ -757,7 +922,7 @@
    "id": "02259a42619b",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Açougue",
@@ -768,7 +933,7 @@
    "id": "cd1a6c61deb4",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Planejador Manutencao II - Mineiros - GO",
@@ -779,7 +944,7 @@
    "id": "60b5bfdca803",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "OPERADOR DE PROCESSOS SÊNIOR - UTILIDADES",
@@ -790,7 +955,7 @@
    "id": "03206ef277a7",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Mecânico",
@@ -801,7 +966,7 @@
    "id": "d02fe5853e35",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Churrasqueiro",
@@ -812,7 +977,7 @@
    "id": "7d24d255bf3b",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar Administrativa",
@@ -823,7 +988,7 @@
    "id": "3c9ba8884c94",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Eletricista II (Fábrica de ração) - Mineiros GO",
@@ -834,7 +999,7 @@
    "id": "5740a31a876a",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Banco de Talentos",
@@ -889,7 +1054,7 @@
    "id": "0ed783b4cab1",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Estagiario(a) Nivel Tecnico (Manutenção Mecânica) - Mineiros GO",
@@ -900,18 +1065,7 @@
    "id": "a8a0811f74d6",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
-  },
-  {
-   "title": "AUXILIAR - AGRICOLA",
-   "company": "Atvos",
-   "location": "Mineiros, GO",
-   "url": "https://br.linkedin.com/jobs/view/auxiliar-agricola-at-atvos-4484278625",
-   "posted": "2026-10-28",
-   "id": "cd00190fd142",
-   "source": "LinkedIn",
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-15"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "MOTORISTA SR",
@@ -922,7 +1076,7 @@
    "id": "bc3ee0b9ff8a",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "OP PROCESSO SR - UTILIDADE",
@@ -944,7 +1098,7 @@
    "id": "daf9bd010836",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor Externo de Seguros Agro",
@@ -955,7 +1109,7 @@
    "id": "45de8ab4646d",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor Externo de Seguros (Agro)",
@@ -966,7 +1120,7 @@
    "id": "9b7e32a92f75",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador de Drone",
@@ -988,7 +1142,7 @@
    "id": "472504798bf7",
    "source": "LinkedIn",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Promotor De Vendas - MINEIROS/GO",
@@ -999,7 +1153,7 @@
    "id": "b0189c7677b4",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Técnico De Suporte",
@@ -1010,7 +1164,7 @@
    "id": "8e3325188bae",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Representante Comercial",
@@ -1021,7 +1175,7 @@
    "id": "1ee64ca20b3d",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar De Limpeza",
@@ -1043,7 +1197,7 @@
    "id": "e66cbd2667c2",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "GERENTE DE RESTAURANTE - MINEIROS",
@@ -1054,7 +1208,7 @@
    "id": "54bfe45df802",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Operador De Escavadeira",
@@ -1065,7 +1219,7 @@
    "id": "58a86042c086",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Consultor(A) De Vendas PAP (Porta A Porta)",
@@ -1076,7 +1230,7 @@
    "id": "4815c1147a6a",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar De Cozinha - Vaga Afirmativa Para Pessoas Com Deficiência/Reabilitados",
@@ -1087,7 +1241,7 @@
    "id": "2e699665c39b",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Coordenador Comercial De Agronegócio",
@@ -1098,7 +1252,7 @@
    "id": "aab38d614cec",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Supervisor De Manutenção - Caminhão",
@@ -1109,7 +1263,7 @@
    "id": "f2e71f319fce",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "FREELANCER DE ATENDIMENTO",
@@ -1120,7 +1274,7 @@
    "id": "6c8f375c4c82",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Inspetor De Manutenção - Automóveis",
@@ -1131,7 +1285,7 @@
    "id": "ac416feaab7c",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mecânico De Caminhões - Cavalo",
@@ -1142,7 +1296,7 @@
    "id": "7380642ca3f6",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor Externo",
@@ -1153,7 +1307,7 @@
    "id": "72e55c467a82",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Técnico de Suporte",
@@ -1164,7 +1318,7 @@
    "id": "dcd6501d40cd",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Auxiliar de Limpeza",
@@ -1186,7 +1340,7 @@
    "id": "dddf55171d7d",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Promotor de Merchandising",
@@ -1197,7 +1351,7 @@
    "id": "e62934e6655e",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Administrador de Fazenda",
@@ -1219,7 +1373,7 @@
    "id": "e0879098bbe2",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor(a) de ótica mineiros/go",
@@ -1230,7 +1384,7 @@
    "id": "d2c2dda1d8a1",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor Externo de Seguros Agro",
@@ -1241,7 +1395,7 @@
    "id": "d7affe620425",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Caseiro",
@@ -1263,7 +1417,7 @@
    "id": "15acaf4165e0",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor",
@@ -1274,7 +1428,7 @@
    "id": "54250552cfe2",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Inspetor de Manutenção",
@@ -1285,7 +1439,7 @@
    "id": "385a551d91d8",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mecânico Automotivo",
@@ -1296,7 +1450,7 @@
    "id": "b245a64f1c16",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Representante Comercial Autônomo",
@@ -1307,7 +1461,7 @@
    "id": "86af36cd81c6",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vendedor Externo",
@@ -1318,7 +1472,7 @@
    "id": "77506e6e10b7",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Vigilante - GO/Rio Verde",
@@ -1351,7 +1505,7 @@
    "id": "71f7ecb0988e",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Coordenador de Laboratório",
@@ -1362,7 +1516,7 @@
    "id": "49edf2617809",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Motorista - Hab B",
@@ -1373,7 +1527,7 @@
    "id": "3029d4c58004",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -1384,7 +1538,7 @@
    "id": "524af4ece920",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -1406,7 +1560,7 @@
    "id": "19f65f011c41",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -1428,7 +1582,7 @@
    "id": "962c36cd532a",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   },
   {
    "title": "Mais detalhes",
@@ -1439,7 +1593,7 @@
    "id": "a06d6fee11cd",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-18"
+   "last_seen": "2026-11-19"
   }
  ]
 }
