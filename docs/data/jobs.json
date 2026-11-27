@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-26T15:43-03:00",
+ "updated_at": "2026-11-27T15:33-03:00",
  "city": "Mineiros - GO",
  "sources": [
   {
@@ -34,14 +34,14 @@
    "name": "InfoJobs",
    "url": "https://www.infojobs.com.br/vagas-de-emprego-mineiros-go.aspx",
    "status": "ok",
-   "count": 14,
+   "count": 13,
    "error": null
   },
   {
    "name": "Catho",
    "url": "https://www.catho.com.br/vagas/mineiros-go/",
    "status": "ok",
-   "count": 15,
+   "count": 14,
    "error": null
   },
   {
@@ -77,6 +77,83 @@
   }
  ],
  "jobs": [
+  {
+   "title": "Menor Aprendiz/Estagiário Em Mineiros",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.infojobs.com.br/vaga-de-menor-aprendizestagiario-mineiros-em-goias__12135303.aspx",
+   "posted": null,
+   "id": "e5d61d4c6049",
+   "source": "InfoJobs",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "title": "Representante Comercial Autônomo",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.catho.com.br/vagas/representante-comercial-autonomo/39449456",
+   "posted": null,
+   "id": "9d65b528d61f",
+   "source": "Catho",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "title": "Menor Aprendiz/Estagiário em Mineiros",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.catho.com.br/vagas/menor-aprendizestagiario-em-mineiros/38924008",
+   "posted": null,
+   "id": "0937ab2608a9",
+   "source": "Catho",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12056084/auxiliar-de-operador-de-maquinas-aparecida-de-goiania-go-em-aparecida-de-goiania-go",
+   "posted": null,
+   "id": "c93a71565541",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12054852/promotor-freelancer-santo-antonio-do-descoberto-go-em-santo-antonio-do-descoberto-go",
+   "posted": null,
+   "id": "0df939222a8c",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12053819/auxiliar-de-producao-aparecida-de-goianiago-em-aparecida-de-goiania-go",
+   "posted": null,
+   "id": "a3da37d070d2",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
+  {
+   "title": "Mais detalhes",
+   "company": "",
+   "location": "Mineiros, GO",
+   "url": "https://www.empregos.com.br/vaga/12048139/eletricista-montador-de-paineis-eletricos-go-go-go-go-go-go-go-go-go-em-anapolis-go",
+   "posted": null,
+   "id": "0b31a7036e35",
+   "source": "Empregos.com.br",
+   "first_seen": "2026-11-27",
+   "last_seen": "2026-11-27"
+  },
   {
    "title": "ANALISTA ADMINISTRACAO DE PESSOAL",
    "company": "Atvos",
@@ -185,7 +262,7 @@
    "id": "170df6cda9ce",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -196,7 +273,7 @@
    "id": "1d291a50cb4f",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -207,7 +284,7 @@
    "id": "3ff7a4ca5626",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -218,7 +295,7 @@
    "id": "b6b556ae8297",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -229,7 +306,7 @@
    "id": "bb51b00d4b74",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -240,7 +317,7 @@
    "id": "cd708a5ec00c",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -251,7 +328,7 @@
    "id": "c22d6449356d",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -262,7 +339,7 @@
    "id": "515dd65474b1",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -273,7 +350,7 @@
    "id": "bbc1f0cab9e6",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -284,7 +361,7 @@
    "id": "35c402549a8a",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -306,7 +383,7 @@
    "id": "7f433f8f5f39",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -339,7 +416,7 @@
    "id": "ccd3b27ada50",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -350,7 +427,7 @@
    "id": "ac11c97af8c4",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -361,7 +438,7 @@
    "id": "64611059fcb7",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-25",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -636,7 +713,7 @@
    "id": "b01035089521",
    "source": "Catho",
    "first_seen": "2026-11-18",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Encarregado de Padaria",
@@ -812,7 +889,7 @@
    "id": "08d6e650e4e0",
    "source": "InfoJobs",
    "first_seen": "2026-11-16",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Operador(a) Racoes I - Mineiros GO",
@@ -1175,7 +1252,7 @@
    "id": "b0189c7677b4",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Técnico De Suporte",
@@ -1197,7 +1274,7 @@
    "id": "1ee64ca20b3d",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Promotor De Vendas Diarista",
@@ -1219,7 +1296,7 @@
    "id": "54bfe45df802",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Operador De Escavadeira",
@@ -1230,7 +1307,7 @@
    "id": "58a86042c086",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Consultor(A) De Vendas PAP (Porta A Porta)",
@@ -1241,7 +1318,7 @@
    "id": "4815c1147a6a",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Auxiliar De Cozinha - Vaga Afirmativa Para Pessoas Com Deficiência/Reabilitados",
@@ -1252,7 +1329,7 @@
    "id": "2e699665c39b",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Coordenador Comercial De Agronegócio",
@@ -1263,7 +1340,7 @@
    "id": "aab38d614cec",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Supervisor De Manutenção - Caminhão",
@@ -1274,7 +1351,7 @@
    "id": "f2e71f319fce",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "FREELANCER DE ATENDIMENTO",
@@ -1285,7 +1362,7 @@
    "id": "6c8f375c4c82",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Inspetor De Manutenção - Automóveis",
@@ -1296,7 +1373,7 @@
    "id": "ac416feaab7c",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mecânico De Caminhões - Cavalo",
@@ -1307,7 +1384,7 @@
    "id": "7380642ca3f6",
    "source": "InfoJobs",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Vendedor Externo",
@@ -1340,7 +1417,7 @@
    "id": "dddf55171d7d",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Promotor de Merchandising",
@@ -1362,7 +1439,7 @@
    "id": "e0879098bbe2",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Vendedor(a) de ótica mineiros/go",
@@ -1384,7 +1461,7 @@
    "id": "d7affe620425",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Gerente de restaurante mineiros",
@@ -1395,7 +1472,7 @@
    "id": "15acaf4165e0",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Vendedor",
@@ -1406,7 +1483,7 @@
    "id": "54250552cfe2",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Inspetor de Manutenção",
@@ -1417,7 +1494,7 @@
    "id": "385a551d91d8",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mecânico Automotivo",
@@ -1428,7 +1505,7 @@
    "id": "b245a64f1c16",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Representante Comercial Autônomo",
@@ -1439,7 +1516,7 @@
    "id": "86af36cd81c6",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Vendedor Externo",
@@ -1461,7 +1538,7 @@
    "id": "71f7ecb0988e",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Coordenador de Laboratório",
@@ -1472,7 +1549,7 @@
    "id": "49edf2617809",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Motorista - Hab B",
@@ -1483,7 +1560,7 @@
    "id": "3029d4c58004",
    "source": "Catho",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -1494,7 +1571,7 @@
    "id": "524af4ece920",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   },
   {
    "title": "Mais detalhes",
@@ -1516,7 +1593,7 @@
    "id": "a06d6fee11cd",
    "source": "Empregos.com.br",
    "first_seen": "2026-11-12",
-   "last_seen": "2026-11-26"
+   "last_seen": "2026-11-27"
   }
  ]
 }
